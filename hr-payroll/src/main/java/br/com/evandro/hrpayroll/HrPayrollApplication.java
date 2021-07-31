@@ -8,7 +8,6 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 @EnableFeignClients
 public class HrPayrollApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(HrPayrollApplication.class, args);
+		SpringApplication.run(HrPayrollApplication.class, args);	
 	}
 }
-	
